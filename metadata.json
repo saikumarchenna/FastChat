@@ -1,0 +1,5 @@
+{
+  "name": "FastChat",
+  "description": "A high-fidelity frontend simulation of a Next.js + FastAPI chat architecture. Uses BroadcastChannel API to simulate WebSockets for real-time communication between tabs without a running backend server.",
+  "requestFramePermissions": []
+}

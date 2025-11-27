@@ -1,0 +1,5 @@
+- [x] Create empty index.css file to resolve build warning
+- [x] Update imports in App.tsx to use "@" alias
+- [x] Update imports in context/AuthContext.tsx to use "@" alias
+- [x] Update imports in views/AuthView.tsx and views/ChatView.tsx to use "@" alias
+- [x] Run local build to verify fixes
